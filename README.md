@@ -2,6 +2,9 @@
 
 This project is a galaxy generator that uses **Constraint Satisfaction Problems (CSP)** to build smooth, realistic galaxies on a 2D grid. Instead of random noise, it uses constraints and heuristics to control how galactic regions like deep space, mid-zones, and glowing cores are placed and connected.
 
+![output](https://github.com/user-attachments/assets/ad33cc49-ffc7-4ed1-90f7-393195a6b199)![output](https://github.com/user-attachments/assets/25f8a6df-9899-4386-a260-8783e40ca5f2)![output](https://github.com/user-attachments/assets/937f73fa-8caa-421d-97f3-f31c9c8b1e5b)
+
+
 ---
 
 ## Content

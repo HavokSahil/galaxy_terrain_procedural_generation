@@ -1,4 +1,4 @@
-# 🌌 Procedural Galaxy Generator (CSP-based)
+# Procedural Galaxy Generator (CSP-based)
 
 This project is a galaxy generator that uses **Constraint Satisfaction Problems (CSP)** to build smooth, realistic galaxies on a 2D grid. Instead of random noise, it uses constraints and heuristics to control how galactic regions like deep space, mid-zones, and glowing cores are placed and connected.
 
